@@ -32,7 +32,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sqlite,mysql,mongodb,git,github,vscode,html,css,js,kotlin" />
+  <img src="https://skillicons.dev/icons?i=python,sqlite,mysql,mongodb,git,github,vscode,html,css" />
 </p>
 
 **Currently exploring:**
@@ -49,7 +49,6 @@
 - Data visualization with Matplotlib
 - SQL, PL/SQL and database management
 - MongoDB and NoSQL fundamentals
-- Programming fundamentals and problem solving
 
 ## 🚀 Featured Projects
 
