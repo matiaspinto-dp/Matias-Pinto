@@ -40,7 +40,6 @@
 - SQL, PL/SQL and relational databases
 - MongoDB and NoSQL databases
 - Data analysis and visualization
-- Object-oriented programming
 
 
 ## 📚 Currently Learning
@@ -48,10 +47,9 @@
 - Python for Data Science
 - Data manipulation with Pandas and NumPy
 - Data visualization with Matplotlib
-- Database management and SQL
+- SQL, PL/SQL and database management
+- MongoDB and NoSQL fundamentals
 - Programming fundamentals and problem solving
-
----
 
 ## 🚀 Featured Projects
 
