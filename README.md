@@ -15,17 +15,17 @@
 
 🇪🇸
 - 🎓 Estudiante de Ciencia de Datos en Duoc UC, Chile.
-- 📊 Interesado en transformar datos en información útil.
-- 🐍 Aprendiendo y desarrollando proyectos con Python y SQL.
-- 🧠 Construyendo mis fundamentos en programación, análisis y visualización de datos.
-- 🚀 Mi objetivo es crecer como profesional en el mundo de los datos.
+- 📊 Interesado en convertir datos en información útil para la toma de decisiones.
+- 🐍 Desarrollando mis habilidades en Python y SQL.
+- 🧠 Explorando programación, análisis y visualización de datos.
+- 🚀 Construyendo proyectos y fortaleciendo mis habilidades técnicas.
 
 🇬🇧
 - 🎓 Data Science student at Duoc UC, Chile.
-- 📊 Interested in turning data into useful insights.
-- 🐍 Learning and building projects with Python and SQL.
-- 🧠 Developing my foundations in programming, data analysis and visualization.
-- 🚀 Working towards a career in the data field.
+- 📊 Interested in turning data into actionable insights.
+- 🐍 Developing my skills in Python and SQL.
+- 🧠 Exploring programming, data analysis and visualization.
+- 🚀 Building projects and strengthening my technical skills.
 
 ---
 
@@ -36,8 +36,8 @@
 </p>
 
 **Currently exploring:**
-- Python: Pandas, NumPy, Matplotlib
-- SQL and relational databases
+- Python: Pandas, NumPy and Matplotlib
+- SQL, PL/SQL and relational databases
 - Data analysis and visualization
 - Object-oriented programming
 
@@ -48,22 +48,22 @@
 - Python for Data Science
 - Data manipulation with Pandas and NumPy
 - Data visualization with Matplotlib
-- SQL, PL/SQL and database management
+- Database management and SQL
 - Programming fundamentals and problem solving
 
 ---
 
 ## 🚀 Featured Projects
 
-*Projects will be added as I build and improve my portfolio.*
+*I'm currently developing projects to strengthen my portfolio. Stay tuned!*
 
 ---
 
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/Matias1daid">
-    <img src="https://img.shields.io/badge/GitHub-Matias1daid-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/matiaspinto-DB">
+    <img src="https://img.shields.io/badge/GitHub-matiaspinto--DB-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
