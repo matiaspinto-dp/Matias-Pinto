@@ -32,16 +32,16 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sqlite,mysql,git,github,vscode,html,css,js,kotlin" />
+  <img src="https://skillicons.dev/icons?i=python,sqlite,mysql,mongodb,git,github,vscode,html,css,js,kotlin" />
 </p>
 
 **Currently exploring:**
 - Python: Pandas, NumPy and Matplotlib
 - SQL, PL/SQL and relational databases
+- MongoDB and NoSQL databases
 - Data analysis and visualization
 - Object-oriented programming
 
----
 
 ## 📚 Currently Learning
 
